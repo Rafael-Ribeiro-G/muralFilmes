@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MuralFilmes" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cinema_vermelho</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/cinema_vermelho_escuro</item>
+        <item name="colorOnPrimaryContainer">@color/cinema_vermelho_claro</item>
+        <item name="colorSecondary">@color/cinema_dourado</item>
+    </style>
+</resources>

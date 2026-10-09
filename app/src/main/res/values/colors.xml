@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta do Mural de Filmes -->
+    <color name="cinema_vermelho">#FF9F1D35</color>
+    <color name="cinema_vermelho_escuro">#FF6E0F22</color>
+    <color name="cinema_dourado">#FFC98A0B</color>
+    <color name="cinema_vermelho_claro">#FFFFB3BC</color>
+</resources>
